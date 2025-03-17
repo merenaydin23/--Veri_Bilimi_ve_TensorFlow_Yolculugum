@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc510853-b53e-40d9-bb12-e99dedb3bf87" name="Changes" comment="">
+    <list default="true" id="81878f69-ff71-4407-a96b-a912d93e4c0e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Alıştırmalar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Alıştırmalar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/armstrongSayi.py" beforeDir="false" afterPath="$PROJECT_DIR$/armstrongSayi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,19 +24,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2uLiR8Kh2Ro68za7IEkfY7ZklmS" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2uRK5EOGm4aIrNwA9sW9ta6AvsG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.armstrongSayi.executor": "Run",
+    "Python.binarrySearch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
@@ -49,11 +50,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc510853-b53e-40d9-bb12-e99dedb3bf87" name="Changes" comment="" />
-      <created>1742034244131</created>
+      <changelist id="81878f69-ff71-4407-a96b-a912d93e4c0e" name="Changes" comment="" />
+      <created>1742205762122</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742034244131</updated>
+      <updated>1742205762122</updated>
     </task>
     <servers />
   </component>
