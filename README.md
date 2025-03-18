@@ -6,6 +6,4 @@
 
 📊 İçerik: Python temelleri, küçük projeler ve öğrendiklerimden notlar.
 
-🔗 Kurs: Atıl Samancıoğlu - Veri Bilimi için Python ve TensorFlow
-
 🚀 Adım adım ilerleyerek projeler eklemeye devam edeceğim!
